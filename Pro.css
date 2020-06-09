@@ -1,0 +1,94 @@
+*{
+	margin: 0px;
+	padding: 0px
+}
+h2{
+  font: bold;
+  color: blue;
+  text-align: center;
+}   
+#the_footer{
+	    text-align:center;
+		padding: 20px;
+		border-top: 2px solid green;
+		float: left;
+}
+body{
+	width:150%;
+	display:-webkit-box;
+	-webkit-box-pack: center;
+}
+#big_wrapper{
+     max-width: 1000px;
+	margin: 20px 0px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+	-webkit-box-flex: 1;
+	
+}    
+#top_menu{
+    border:blue;
+    background:blue;
+    color:white;
+	margin: 30px;
+}
+#top_menu li{
+	   display:inline-block;
+	   list-style:none;
+	   padding: 5px; 
+}
+#new_div{
+		display:-webkit-box;
+		webkit-box-orient:vertical-align;
+}
+#main_section{
+	     border:1px solid blue;
+		margin:20px;
+		-webkit-box-flex: 1;
+		padding:20px;
+}
+#side_information{
+	     border:1px;
+		 width:70px;
+		 margin: 20px 0px;
+		 padding: 10px;
+		 color: blue;
+}
+#the_footer{
+     text-align:center;
+	 padding: 20px;
+	border-top: 2px solid green;
+}
+#the_imam{
+	 text-align:center;
+	font: bold 15px Tahoma;
+}
+#the_login{
+	color: red;
+	text-align: center;
+	font: bold 15px Tahoma;
+}
+#the_dress{
+	 color: red;
+	 font: bold 20px Tahoma;
+}
+#cut_mark{
+	 font:bold 15px Tahoma;
+}	 
+#the_cont{
+		text-align:center;
+		color:red;
+}
+#the_reg{
+	color:blue;
+	text-align: center;
+}
+ #the_option{
+	 color: blue;
+	 background: stelblue;
+ }
+
+
+
+
+
